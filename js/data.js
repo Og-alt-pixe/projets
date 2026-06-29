@@ -18,7 +18,7 @@ En collaboration avec la cave à vin Volatiles, j'ai imaginé et réalisé une s
 Chaque objet a nécessité une phase d'expérimentation afin d'adapter le geste de gravure à ses contraintes et spécificités d’usage. Cette collaboration a été l'occasion d'explorer la place de l'artisanat et de la personnalisation dans l'univers du vin, tout en créant un moment d'échange privilégié avec le public.
 `,
         imageHero: "image/volatiles2.webp",
-        imageNext: "image/lucie-logo2.webp",
+        imageNext: "image/client-logo(2).webp",
         url: "projet-page.html?id=volatiles-paris",
         gallery: [
             { src: "image/store.webp", layout: "" },
@@ -37,26 +37,6 @@ Chaque objet a nécessité une phase d'expérimentation afin d'adapter le geste 
         ]
     },
 
-    //------------LUCIE-------------->
-    {
-        id: "lucie-allard",
-        title: "Lucie Allard Design",
-        category: "graphisme",
-        displayCategory: "Eco-design",
-        year: "2022-2024",
-        type: "Graphisme",
-        discipline: "Identité visuelle",
-        description: "Accompagnement de Lucie Allard dans sa nouvelle image...",
-        imageHero: "image/lucie-logo2.webp",
-        imageNext: "image/client-logo(2).webp",
-        url: "projet-page.html?id=lucie-allard",
-        gallery: [ 
-            { src: "image/projets/lucie/logo.webp", layout: "square" },
-             { src: "image/projets/lucie/gif.gif", layout: "portrait", type: "gif" },
-           
-        ]
-    },
-
     //------------CARAFE-------------->
     {
         id: "thuizat-carafe",
@@ -68,7 +48,7 @@ Chaque objet a nécessité une phase d'expérimentation afin d'adapter le geste 
         discipline: "Design & Artisanat",
         description: "Accompagnement de Lucie Allard dans sa nouvelle image...",
         imageHero: "image/client-logo(2).webp",
-        imageNext: "image/jaaj.webp",
+        imageNext: "image/home/logo1.jpg",
         url: "projet-page.html?id=thuizat-carafe",
         gallery: [
             { src: "image/client-logo(2).webp", layout: "" },
@@ -77,27 +57,28 @@ Chaque objet a nécessité une phase d'expérimentation afin d'adapter le geste 
         ]
     },
 
-
-    //------------JAAJ-------------->
+    //------------LUCIE-------------->
     {
-        id: "jaaj-ttf",
-        title: "JAAJ.TTF",
+        id: "lucie-allard",
+        title: "Lucie Allard Design",
         category: "graphisme",
-        displayCategory: "Font design",
-        year: "2020",
+        displayCategory: "Eco-design",
+        year: "2022-2024",
         type: "Graphisme",
-        discipline: "Design Typographique",
+        discipline: "Identité visuelle",
         description: "Accompagnement de Lucie Allard dans sa nouvelle image...",
-        imageHero: "image/jaaj.webp",
-        imageNext: "image/client-illu(4).webp",
-        url: "projet-page.html?id=jaaj-ttf",
-        gallery: [
-            { src: "image/jaaj.webp", layout: "landscape" },
-            { src: "image/jaaj4.webp", layout: "" },
-            { src: "image/jaaj4.webp", layout: "" }
-
+        imageHero: "image/home/logo1.jpg",
+        imageNext: "image/home/client-illu(3).webp" ,
+        url: "projet-page.html?id=lucie-allard",
+        gallery: [ 
+            { src: "image/projets/lucie/logo.webp", layout: "square" },
+             { src: "image/projets/lucie/gif.gif", layout: "portrait", type: "gif" },
+           
         ]
     },
+
+
+
 
     //------------PERSO-------------->
     {
@@ -109,8 +90,8 @@ Chaque objet a nécessité une phase d'expérimentation afin d'adapter le geste 
         type: "Artisanat",
         discipline: "Design artisanale",
         description: "Accompagnement de Lucie Allard dans sa nouvelle image...",
-        imageHero: "image/client-illu(4).webp",
-        imageNext: "image/home/id.webp",
+        imageHero: "image/home/client-illu(3).webp" ,
+        imageNext: "image/home/anim-calli(1).webp",
         url: "projet-page.html?id=perso",
         gallery: [
             { src: "image/client-illu(4).webp", layout: "portrait" },
@@ -120,46 +101,7 @@ Chaque objet a nécessité une phase d'expérimentation afin d'adapter le geste 
         ]
     },
 
-    //------------LIRE-------------->
-    {
-        id: "memoire",
-        title: "I DO.",
-        category: "graphisme",
-        displayCategory: "Expérience utilisateur",
-        year: "209-2021",
-        type: "Graphisme",
-        discipline: "Design graphique & numérique",
-        description: "Accompagnement de Lucie Allard dans sa nouvelle image...",
-        imageHero: "image/home/id.webp",
-        imageNext: "image/home/archi2.webp",
-        url: "projet-page.html?id=memoire",
-        gallery: [
-            { src: "image/lire.webp", layout: "square" },
-            { src: "image/lire.webp", layout: "square" }
-
-        ]
-    },
-
-    //------------HIBOU-------------->
-    {
-        id: "archi-lucas",
-        title: "L'Archimede",
-        category: "graphisme",
-        displayCategory: "Poster Illustré",
-        year: "2024",
-        type: "Graphisme",
-        discipline: "Graphisme et Illustration",
-        description: "Accompagnement de Lucie Allard dans sa nouvelle image...",
-        imageHero: "image/home/archi2.webp",
-        imageNext: "image/home/client-calli(1).webp",
-        url: "projet-page.html?id=archi-lucas",
-        gallery: [
-            { src: "image/perso-archi(1).webp", layout: "landscape" },
-            { src: "image/archi3.webp", layout: "" },
-            { src: "image/perso-archi(2).webp", layout: "landscape" }
-
-        ]
-    },
+  
 
     //------------LVMH-------------->
     {
